@@ -3,7 +3,7 @@
 # Description: Immortalized MEndR staining is prone
 # to variations in staining brightness. This script
 # utilizes opencv's local thresholding to account for
-# this weakness. All code was adapted from various sources.
+# this weakness.
 
 import cv2
 import numpy as np
